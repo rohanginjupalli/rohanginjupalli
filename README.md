@@ -1,4 +1,4 @@
-# 👋 Hello peeps
+# 👋 Hello people
 
 I'm **Rohan Ginjupalli**, a passionate Full Stack Developer who loves building scalable, user-friendly, and dynamic applications.
 
