@@ -7,7 +7,7 @@ I'm **Rohan Ginjupalli**, a passionate Full Stack Developer who loves building s
 ## 🚀 About Me
 - 🖥️ **Specialization:** Full Stack Web Development
 - 💡 **Vision:** Crafting responsive, dynamic, and accessible platforms
-- 🌱 **Currently learning:** React (Redux), API integration, Node.js
+- 🌱 **Currently learning:** React, API integration, Node.js
 
 ---
 
