@@ -25,7 +25,7 @@ I'm **Rohan Ginjupalli**, a passionate Full Stack Developer who loves building s
 
 ## 🛠️ Tech Stack (Global)
 
-**Frontend:** HTML5 · CSS3 · JavaScript · React · Redux · Bootstrap · TailwindCSS  
+**Frontend:** HTML5 · CSS3 · JavaScript · React · Redux · Bootstrap · TailwindCSS · ContextApi  
 **Backend:** Node.js · Express.js  
 **Databases:** PostgreSQL · MySQL  
 **Tools:** Git · GitHub · Postman · VS Code
