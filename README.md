@@ -49,7 +49,7 @@ A passionate **Full Stack Developer** focused on building scalable, dynamic, and
 | Project | Description |
 |--------|-------------|
 | Travel Tracker | Full-stack personal travel management system |
-| React + TypeScript Practice Apps | Form handling, state management, filtering, CRUD logic |
+| React(Redux,ReduxToolKit) + TypeScript Practice Apps | Form handling,Multiple Slices,state management,filtering,CRUD logic |
 | CRUD Apps with Redux Toolkit | Cars management, Expense tracker concepts |
 
 🔗 Explore all my projects:  
