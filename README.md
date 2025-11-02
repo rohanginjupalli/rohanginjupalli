@@ -1,64 +1,66 @@
 # 👋 Hey there! I'm **Rohan Ginjupalli**
 
-A passionate **Full Stack Developer** focused on building scalable, dynamic, and elegant web applications with modern technologies.
+A passionate **Full Stack Developer** focused on building scalable, modern, and efficient web applications. Actively working with **TypeScript + React + Redux Toolkit** to build production-style projects.
 
 ---
 
 ## 🚀 About Me
-- 💻 Full Stack Developer (MERN & Postgres stack)
+- 💻 Full Stack Developer (React + TS + Node + Postgres)
 - 🎯 Goal: Become a highly skilled Software Engineer
-- 🌱 Currently Improving: **React, Redux Toolkit, TypeScript, Tailwind, Node.js**
-- 🧠 Strong interest in **system design, clean architecture & reusability**
+- 🌱 Currently leveling up in **TypeScript, Redux Toolkit, RTK Query, Tailwind, Node.js**
+- 🧠 Strong focus on **clean code, reusable components & scalable architecture**
 
 ---
 
 ## 🧑‍💻 Skills & Technologies
 
+### 🧠 Programming Languages
+**TypeScript · JavaScript (ES6+) · SQL**
+
 ### 🌐 Frontend
-- **Languages:** HTML5 · CSS3 · JavaScript (ES6+) · TypeScript
-- **Libraries / Frameworks:** React · Redux Toolkit · RTK Query · Tailwind CSS · Bootstrap
-- **State Management:** React Context API · Redux · Redux Toolkit
+- **Core:** HTML5 · CSS3 · TypeScript · JavaScript
+- **Frameworks & Libraries:** React · Redux Toolkit · RTK Query · Context API
+- **UI & Styling:** Tailwind CSS · Bootstrap
 
 ### ⚙️ Backend
-- **Node.js** · **Express.js**
-- REST API development  
-- Authentication & Middleware Understanding
+- Node.js · Express.js  
+- REST APIs · Middleware · Routing
 
 ### 🗄️ Databases
-- PostgreSQL
-- MySQL
+- PostgreSQL · MySQL
 
-### 🛠️ Tools & Platforms
+### 🛠️ Tools & DevOps
 - Git & GitHub
 - Postman
 - VS Code
-- Vite · NPM · Webpack (Basic Knowledge)
+- Vite · NPM
 
 ---
 
-## 📚 Learning Journey (Currently Exploring)
-- ✅ TypeScript + React
-- ✅ Redux Toolkit + RTK Query
-- ✅ Tailwind + Vite setup
-- 🔄 API integration with React
-- 🚧 Soon: Authentication, JWT, Advanced DB, Cloud Deployments
+## 📚 Current Learning & Focus
+- ✅ TypeScript + React (Strong Hands-on)
+- ✅ Redux Toolkit & RTK Query
+- ✅ Tailwind with Vite
+- ✅ Form Handling & Complex State Logic
+- 🔄 API integration & full-stack workflows
+- 🚧 Coming Soon: Auth (JWT), Cloud Hosting, Advance DB relations
 
 ---
 
 ## 📂 Projects
-| Project | Description |
-|--------|-------------|
-| Travel Tracker | Full-stack personal travel management system |
-| React(Redux,ReduxToolKit) + TypeScript Practice Apps | Form handling,Multiple Slices,state management,filtering,CRUD logic |
-| CRUD Apps with Redux Toolkit | Cars management, Expense tracker concepts |
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| **Travel Tracker** | React + Node + PostgreSQL | Plan & track trips, save itineraries |
+| **Cars Manager (Redux Toolkit + TS)** | React + TS + RTK | Full CRUD + Filters + Search + Aggregation |
+| **React Practice Apps** | React + TS | Deep practice in state, forms, UI, hooks |
 
-🔗 Explore all my projects:  
+🔗 Explore all projects:  
 👉 https://github.com/rohanginjupalli?tab=repositories
 
 ---
 
-## 🔗 Connect With Me
-- Linkedin: https://www.linkedin.com/in/rohanginjupalli  
+## 🌐 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/rohanginjupalli  
 - GitHub: https://github.com/rohanginjupalli
 
 ---
@@ -69,4 +71,4 @@ A passionate **Full Stack Developer** focused on building scalable, dynamic, and
 
 ---
 
-✨ *"Learning every day to build tomorrow’s solutions."*
+✨ *"Code. Learn. Improve — every single day."*
