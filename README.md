@@ -5,9 +5,9 @@ A passionate **Full Stack Developer** focused on building scalable, modern, and 
 ---
 
 ## 🚀 About Me
-- 💻 Full Stack Developer (React + TS + Node + Postgres)
+- 💻 Full Stack Developer (React(Redux & ReduxToolkit) + TS + Node + Postgres)
 - 🎯 Goal: Become a highly skilled Software Engineer
-- 🌱 Currently leveling up in **TypeScript, Redux Toolkit, RTK Query, Tailwind, Node.js**
+- 🌱 Currently leveling up in **TypeScript, Redux Toolkit, RTK Query(Learning), Tailwind, Node.js**
 - 🧠 Strong focus on **clean code, reusable components & scalable architecture**
 
 ---
@@ -23,7 +23,7 @@ A passionate **Full Stack Developer** focused on building scalable, modern, and 
 - **UI & Styling:** Tailwind CSS · Bootstrap
 
 ### ⚙️ Backend
-- Node.js · Express.js  
+- Node.js · Express.js  , Google OAuth
 - REST APIs · Middleware · Routing
 
 ### 🗄️ Databases
@@ -43,7 +43,7 @@ A passionate **Full Stack Developer** focused on building scalable, modern, and 
 - ✅ Tailwind with Vite
 - ✅ Form Handling & Complex State Logic
 - 🔄 API integration & full-stack workflows
-- 🚧 Coming Soon: Auth (JWT), Cloud Hosting, Advance DB relations
+- 🚧 Coming Soon: OAuth(done), Cloud Hosting, Advance DB relations
 
 ---
 
