@@ -1,74 +1,74 @@
-# 👋 Hey there! I'm **Rohan Ginjupalli**
+<h1 align="center">Hi 👋, I'm Rohan Ginjupalli</h1>
+<h3 align="center">Aspiring Full Stack Developer | React, Redux & Flutter Enthusiast</h3>
 
-A passionate **Full Stack Developer** focused on building scalable, modern, and efficient web applications. Actively working with **TypeScript + React + Redux Toolkit** to build production-style projects.
-
----
-
-## 🚀 About Me
-- 💻 Full Stack Developer (React(Redux & ReduxToolkit) + TS + Node + Postgres)
-- 🎯 Goal: Become a highly skilled Software Engineer
-- 🌱 Currently leveling up in **TypeScript, Redux Toolkit, RTK Query(Learning), Tailwind, Node.js**
-- 🧠 Strong focus on **clean code, reusable components & scalable architecture**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohanginjupalli&label=Profile%20views&color=0e75b6&style=flat" alt="rohanginjupalli" />
+</p>
 
 ---
 
-## 🧑‍💻 Skills & Technologies
+### 🌟 About Me
 
-### 🧠 Programming Languages
-**TypeScript · JavaScript (ES6+) · SQL**
-
-### 🌐 Frontend
-- **Core:** HTML5 · CSS3 · TypeScript · JavaScript
-- **Frameworks & Libraries:** React · Redux Toolkit · RTK Query · Context API
-- **UI & Styling:** Tailwind CSS · Bootstrap
-
-### ⚙️ Backend
-- Node.js · Express.js  , Google OAuth
-- REST APIs · Middleware · Routing
-
-### 🗄️ Databases
-- PostgreSQL · MySQL
-
-### 🛠️ Tools & DevOps
-- Git & GitHub
-- Postman
-- VS Code
-- Vite · NPM
+- 🌱 I’m currently learning **React, Redux Toolkit Query, Flutter & State Management**
+- 💻 I love building **frontend web apps and mobile apps**
+- 🚀 Actively improving my skills by coding projects from **scratch** for deep clarity  
+- 🔭 Working on: **RTK Query mini-project & Flutter UI clones**
 
 ---
 
-## 📚 Current Learning & Focus
-- ✅ TypeScript + React (Strong Hands-on)
-- ✅ Redux Toolkit & RTK Query
-- ✅ Tailwind with Vite
-- ✅ Form Handling & Complex State Logic
-- 🔄 API integration & full-stack workflows
-- 🚧 Coming Soon: OAuth(done), Cloud Hosting, Advance DB relations
+### 📂 Featured Projects
+
+| Project | Tech Stack | GitHub |
+|---------|------------|--------|
+| RTK Query Mini Project | React, Redux Toolkit, JSON Server | [View Repo](https://github.com/rohanginjupalli/RTK-redux-toolkit-query-mini-project-) |
+| Authentication System | Node.js, Express, PostgreSQL, Passport.js | *Private / In Progress* |
+| Flutter UI Practice | Flutter, Dart | Coming Soon |
 
 ---
 
-## 📂 Projects
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **Travel Tracker** | React + Node + PostgreSQL | Plan & track trips, save itineraries |
-| **Cars Manager (Redux Toolkit + TS)** | React + TS + RTK | Full CRUD + Filters + Search + Aggregation |
-| **React Practice Apps** | React + TS | Deep practice in state, forms, UI, hooks |
+### 🛠️ Tech Stack & Tools
 
-🔗 Explore all projects:  
-👉 https://github.com/rohanginjupalli?tab=repositories
+**Frontend:**  
+`React` • `Redux Toolkit` • `RTK Query` • `Tailwind CSS` • `JavaScript (ES6+)` • `TypeScript (learning)`
 
----
+**Mobile Development:**  
+`Flutter` • `Dart`
 
-## 🌐 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/rohanginjupalli  
-- GitHub: https://github.com/rohanginjupalli
+**Backend & Database:**  
+`Node.js` • `Express.js` • `PostgreSQL` • `REST APIs`
+
+**Others:**  
+`Git & GitHub` • `VS Code` • `Figma` • `JSON Server` • `Postman`
 
 ---
 
-## 📊 GitHub Stats
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanginjupalli&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanginjupalli&layout=compact&theme=dark)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohanginjupalli&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohanginjupalli&theme=tokyonight" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanginjupalli&layout=compact&theme=tokyonight" alt="languages" />
+</p>
 
 ---
 
-✨ *"Code. Learn. Improve — every single day."*
+### 🤝 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin-id" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:your@email.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+⭐ _“Code. Learn. Break. Build again. That’s how developers are made.”_  
