@@ -7,7 +7,6 @@
 
 ---
 
-### 🛠️ Technologies & Tools
 ### 🛠️ Technologies & Tools:
 
 <table>
