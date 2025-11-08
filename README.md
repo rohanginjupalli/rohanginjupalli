@@ -104,10 +104,10 @@
 
 ### 🌟 About Me
 
-- 🌱 I’m currently learning **React, Redux Toolkit Query, Flutter & State Management**
-- 💻 I love building **frontend web apps and mobile apps**
+- 🌱 I’m currently learning **React, Redux Toolkit Query & State Management**
+- 💻 I love building **frontend and backend web appilications **
 - 🚀 Actively improving my skills by coding projects from **scratch** for deep clarity  
-- 🔭 Working on: **RTK Query mini-project & Flutter UI clones**
+- 🔭 Working on: **RTK Query mini-project **
 
 ---
 
@@ -117,7 +117,6 @@
 |---------|------------|--------|
 | RTK Query Mini Project | React, Redux Toolkit, JSON Server | [View Repo](https://github.com/rohanginjupalli/RTK-redux-toolkit-query-mini-project-) |
 | Authentication System | Node.js, Express, PostgreSQL, Passport.js | *Private / In Progress* |
-| Flutter UI Practice | Flutter, Dart | Coming Soon |
 
 ---
 
