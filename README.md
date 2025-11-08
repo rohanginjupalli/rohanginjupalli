@@ -8,7 +8,6 @@
 ---
 
 ### 🛠️ Technologies & Tools
-
 ### 🛠️ Technologies & Tools:
 
 <table>
@@ -48,16 +47,31 @@
       <br>Express
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ejs" width="48" height="48" alt="EJS" />
+      <br>EJS
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-   
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://img.icons8.com/color/48/000000/sql.png" width="48" height="48" alt="SQL" />
+      <br>SQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
@@ -74,6 +88,8 @@
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
       <br>VS Code
@@ -84,8 +100,6 @@
     </td>
   </tr>
 </table>
-
-
 
 
 ### 🌟 About Me
