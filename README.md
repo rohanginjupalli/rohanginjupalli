@@ -7,6 +7,26 @@
 
 ---
 
+### 🛠️ Technologies & Tools
+
+<p align="center">
+
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind" />
+
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres" />
+
+  <!-- Mobile / Cross Platform -->
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+
+</p>
+
+
+
 ### 🌟 About Me
 
 - 🌱 I’m currently learning **React, Redux Toolkit Query, Flutter & State Management**
